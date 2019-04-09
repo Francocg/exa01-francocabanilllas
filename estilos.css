@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: wheat;
+}
+body{
+    margin-top: 30px;
+    width: 800px;
+    height: 500px;
+    background:red;
+    margin-left: 300px;
+}
+#tic{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#caj{
+    float: left;
+    margin-left: 4px;
+    margin-top: 10px;
+}
+#caj1{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#me{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#caj2{
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+#cli{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#caj3{
+    float: left;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+#dni{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#caj4{
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#caj5{
+    float: left;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+#pla{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#sel{
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#pre{
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#caj6{
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+#can{
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#caj7{
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+#but{
+    float: left;
+    margin-left: 350px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 6px 2px 6px 2px;
+    background-color: aqua;
+}
+table,td{
+    border: 1px solid black;
+}
